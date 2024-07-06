@@ -1,4 +1,5 @@
-![logo]()
+
+![logo](https://github.com/Suchitadarode/Real-Time-Code-Collaboration-web-app-/assets/114850172/dfdeb696-90b0-4aa5-a0ff-d66444c0ea59)
 
 A collaborative, real-time code editor where users can seamlessly code together. It provides a platform for multiple users to enter a room, share a unique room ID, and collaborate on code simultaneously.
 
