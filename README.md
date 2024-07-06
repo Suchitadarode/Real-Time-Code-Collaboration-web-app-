@@ -31,7 +31,7 @@ A collaborative, real-time code editor where users can seamlessly code together.
 
 ## 🚀 Live Preview
 
-You can view the live preview of the project [here](https://code-collab.vercel.app/).
+You can view the live preview of the project [here](https://code-collab-in.vercel.app/).
 
 ## 💻 Tech Stack
 
